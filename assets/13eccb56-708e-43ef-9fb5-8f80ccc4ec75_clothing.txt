@@ -1,0 +1,33 @@
+LLWearable version 22
+Jeans (wear without leg prims or chaps)
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	0fc417ea-d105-4f71-a704-62e34eec26d7
+		owner_id	0fc417ea-d105-4f71-a704-62e34eec26d7
+		last_owner_id	0fc417ea-d105-4f71-a704-62e34eec26d7
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 5
+parameters 9
+625 .21
+638 0
+806 1
+807 1
+808 1
+814 1
+815 1
+816 0
+869 0
+textures 1
+2 e1f01b47-53a6-4363-bb97-2d2ac4dd1c02

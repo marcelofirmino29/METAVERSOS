@@ -1,0 +1,34 @@
+LLWearable version 22
+camo hoodie
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		owner_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		last_owner_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 8
+parameters 9
+606 .85
+607 1
+608 1
+609 1
+780 1
+834 1
+835 1
+836 1
+877 0
+textures 2
+13 b31a92ed-a271-4f8e-bcec-df0642dea660
+14 38fe97db-88de-42d6-b7f6-40bfa9850385

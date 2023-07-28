@@ -1,0 +1,34 @@
+LLWearable version 22
+Hannah dress overall upper
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		owner_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		last_owner_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 8
+parameters 9
+606 .19
+607 1
+608 .57
+609 1
+780 1
+834 1
+835 1
+836 1
+877 0
+textures 2
+13 f30a5b3f-b33c-47ed-ba77-670877d76df7
+14 ab101480-8ba7-417a-a20d-4a70ae8ae448

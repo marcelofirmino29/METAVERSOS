@@ -1,0 +1,34 @@
+LLWearable version 22
+Paul baseball shirt
+
+	permissions 0
+	{
+		base_mask	7fffffff
+		owner_mask	7fffffff
+		group_mask	00000000
+		everyone_mask	00000000
+		next_owner_mask	00082000
+		creator_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		owner_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		last_owner_id	a32da6e3-4fe1-4484-aee5-f0e2d4a4ee21
+		group_id	00000000-0000-0000-0000-000000000000
+	}
+	sale_info	0
+	{
+		sale_type	not
+		sale_price	10
+	}
+type 4
+parameters 10
+781 1
+800 .72
+801 1
+802 1
+803 1
+804 1
+805 1
+828 0
+840 0
+868 0
+textures 1
+1 84306626-118c-4408-bf15-50e6d4846946
